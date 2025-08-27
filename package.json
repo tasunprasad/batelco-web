@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "next-on-pages"
+    "pages:build": "next-on-pages"
   },
   "dependencies": {
     "@reduxjs/toolkit": "^2.8.2",
@@ -24,11 +24,12 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@cloudflare/next-on-pages": "^1",
+    "wrangler": "^3",
     "eslint": "^9",
     "eslint-config-next": "15.5.0",
     "tailwindcss": "^4",
     "typescript": "^5",
     "vercel": "46.0.4"
-
+    
   }
 }
