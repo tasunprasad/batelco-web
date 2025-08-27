@@ -1,0 +1,250 @@
+{
+  "products": [
+    {
+      "id": "iphone-15-pro-max",
+      "brand": "Apple",
+      "name": "iPhone 15 Pro Max",
+      "description": "The iPhone 15 Pro Max features an aerospace-grade titanium design with an all-new Action button to fast track to your favorite feature. iPhone 15 Pro Max has the longest optical zoom in iPhone ever.",
+      "startingPrice": "BD 19.417",
+      "buyNowPrice": "BD 364.540",
+      "inStock": true,
+      "images": [
+        "/images/iphone-15-pro-max-1.png",
+        "/images/iphone-15-pro-max-2.png",
+        "/images/iphone-15-pro-max-3.png",
+        "/images/iphone-15-pro-max-4.png"
+      ],
+      "memoryOptions": ["256 GB", "512 GB", "1 TB"],
+      "selectedMemory": "512 GB",
+      "colors": [
+        { "name": "Black", "code": "#000000", "selected": true },
+        { "name": "White", "code": "#FFFFFF", "selected": false },
+        { "name": "Grey", "code": "#808080", "selected": false },
+        { "name": "Blue", "code": "#000080", "selected": false }
+      ],
+      "paymentMethods": ["Pay in full", "Pay in instalments"],
+      "selectedPayment": "Pay in instalments",
+      "installmentDurations": ["12 months", "18 months", "24 months"],
+      "selectedDuration": "24 months",
+      "highlights": [
+        "A17 Pro game-changing chip for a groundbreaking performance.",
+        "6.7\" Super Retina XDR display with ProMotion Technology.",
+        "Megapowerful 48MP camera capable for 120 mm of pure Pro zoom with 5x optical zoom.",
+        "Up to 29 hours video playback.",
+        "Facetime is available on the product & would be accessible in regions where facetime is permitted by telecom operators"
+      ],
+      "specifications": {
+        "Charging Type": "Type-C",
+        "SIM Type": "Nano + ESIM",
+        "SIM Count": "Dual SIM",
+        "Operating System": "IOS",
+        "RAM Size": "8 GB",
+        "Battery Size": "4852 MAh",
+        "Internal Memory": "256 GB",
+        "Display Type": "Dynamic AMOLED",
+        "Version": "International Version",
+        "Screen Size": "6.7 In",
+        "Primary Camera Resolution": "48 MP",
+        "Colour Name": "Blue Titanium",
+        "Voice Calling Capability": "Yes",
+        "Operating System Number": "17.0",
+        "Processor Number": "A17 Pro"
+      },
+      "frequentlyBoughtTogether": [
+        {
+          "id": "iphone-14-magsafe-case",
+          "name": "iPhone 14 MagSafe Silicone Case",
+          "price": "BD 23.100",
+          "image": "/iphone-14-case.jpg",
+          "inStock": true
+        },
+        {
+          "id": "iphone-finewoven-wallet",
+          "name": "iPhone FineWoven Wallet",
+          "price": "BD 27.500",
+          "image": "/iphone-wallet.jpg",
+          "inStock": true
+        },
+        {
+          "id": "20w-usb-c-adapter",
+          "name": "20W USB-C Power Adapter",
+          "price": "BD 9.350",
+          "image": "/power-adapter.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-pro",
+      "brand": "Apple",
+      "name": "iPhone 15 Pro",
+      "description": "iPhone 15 Pro delivers pro-level performance in a lighter design with advanced photography and pro display features.",
+      "startingPrice": "BD 15.000",
+      "buyNowPrice": "BD 299.990",
+      "inStock": true,
+      "images": [
+        "/images/iphone-15-pro-1.png",
+        "/images/iphone-15-pro-2.png",
+        "/images/iphone-15-pro-3.png",
+        "/images/iphone-15-pro-4.png"
+      ],
+      "memoryOptions": ["128 GB", "256 GB", "512 GB"],
+      "selectedMemory": "256 GB",
+      "colors": [
+        { "name": "Black", "code": "#000000", "selected": true },
+        { "name": "Silver", "code": "#C0C0C0", "selected": false },
+        { "name": "Gold", "code": "#D4AF37", "selected": false }
+      ],
+      "paymentMethods": ["Pay in full", "Pay in instalments"],
+      "selectedPayment": "Pay in instalments",
+      "installmentDurations": ["12 months", "18 months", "24 months"],
+      "selectedDuration": "24 months",
+      "highlights": [
+        "A17 Pro performance in a refined body.",
+        "6.1\" Super Retina XDR display with ProMotion.",
+        "Advanced triple-camera system for pro workflows.",
+        "Long battery life for all-day use."
+      ],
+      "specifications": {
+        "Charging Type": "Type-C",
+        "SIM Type": "Nano + ESIM",
+        "SIM Count": "Dual SIM",
+        "Operating System": "IOS",
+        "RAM Size": "8 GB",
+        "Battery Size": "4293 MAh",
+        "Internal Memory": "128 GB",
+        "Display Type": "OLED",
+        "Version": "International Version",
+        "Screen Size": "6.1 In",
+        "Primary Camera Resolution": "48 MP",
+        "Colour Name": "Space Black",
+        "Voice Calling Capability": "Yes",
+        "Operating System Number": "17.0",
+        "Processor Number": "A17 Pro"
+      },
+      "frequentlyBoughtTogether": [
+        {
+          "id": "clear-case-pro",
+          "name": "Clear Protective Case",
+          "price": "BD 15.000",
+          "image": "/clear-case.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "iphone-15-plus",
+      "brand": "Apple",
+      "name": "iPhone 15 Plus",
+      "description": "iPhone 15 Plus combines a large display with excellent battery life and advanced camera features at a competitive price.",
+      "startingPrice": "BD 12.000",
+      "buyNowPrice": "BD 219.990",
+      "inStock": true,
+      "images": [
+        "/images/iphone-15-plus-1.png",
+        "/images/iphone-15-plus-2.png",
+        "/images/iphone-15-plus-3.png",
+        "/images/iphone-15-plus-4.png"
+      ],
+      "memoryOptions": ["128 GB", "256 GB", "512 GB"],
+      "selectedMemory": "128 GB",
+      "colors": [
+        { "name": "Red", "code": "#FF0000", "selected": true },
+        { "name": "Blue", "code": "#0000FF", "selected": false },
+        { "name": "White", "code": "#FFFFFF", "selected": false }
+      ],
+      "paymentMethods": ["Pay in full", "Pay in instalments"],
+      "selectedPayment": "Pay in instalments",
+      "installmentDurations": ["12 months", "18 months", "24 months"],
+      "selectedDuration": "24 months",
+      "highlights": [
+        "Large 6.7\" Super Retina XDR display.",
+        "Great battery life for everyday use.",
+        "Powerful camera system with smart features."
+      ],
+      "specifications": {
+        "Charging Type": "Type-C",
+        "SIM Type": "Nano + ESIM",
+        "SIM Count": "Dual SIM",
+        "Operating System": "IOS",
+        "RAM Size": "6 GB",
+        "Battery Size": "4323 MAh",
+        "Internal Memory": "128 GB",
+        "Display Type": "OLED",
+        "Version": "International Version",
+        "Screen Size": "6.7 In",
+        "Primary Camera Resolution": "48 MP",
+        "Colour Name": "Red",
+        "Voice Calling Capability": "Yes",
+        "Operating System Number": "17.0",
+        "Processor Number": "A16"
+      },
+      "frequentlyBoughtTogether": [
+        {
+          "id": "tempered-glass-plus",
+          "name": "Tempered Glass Screen Protector",
+          "price": "BD 7.500",
+          "image": "/screen-protector.jpg",
+          "inStock": true
+        }
+      ]
+    },
+    {
+      "id": "iphone-14-pro",
+      "brand": "Apple",
+      "name": "iPhone 14 Pro",
+      "description": "iPhone 14 Pro brings the Pro camera system and ProMotion display with strong performance and photography upgrades.",
+      "startingPrice": "BD 14.000",
+      "buyNowPrice": "BD 279.990",
+      "inStock": true,
+      "images": [
+        "/images/iphone-14-pro-1.png",
+        "/images/iphone-14-pro-2.png",
+        "/images/iphone-14-pro-3.png",
+        "/images/iphone-14-pro-4.png"
+      ],
+      "memoryOptions": ["128 GB", "256 GB", "512 GB"],
+      "selectedMemory": "256 GB",
+      "colors": [
+        { "name": "Space Black", "code": "#0B0B0B", "selected": true },
+        { "name": "Silver", "code": "#CFCFCF", "selected": false },
+        { "name": "Purple", "code": "#8A2BE2", "selected": false }
+      ],
+      "paymentMethods": ["Pay in full", "Pay in instalments"],
+      "selectedPayment": "Pay in instalments",
+      "installmentDurations": ["12 months", "18 months", "24 months"],
+      "selectedDuration": "24 months",
+      "highlights": [
+        "A16 Bionic chip for fast performance.",
+        "Pro camera system with advanced imaging.",
+        "6.1\" Super Retina XDR display with ProMotion."
+      ],
+      "specifications": {
+        "Charging Type": "Type-C",
+        "SIM Type": "Nano + ESIM",
+        "SIM Count": "Dual SIM",
+        "Operating System": "IOS",
+        "RAM Size": "6 GB",
+        "Battery Size": "3200 MAh",
+        "Internal Memory": "128 GB",
+        "Display Type": "OLED",
+        "Version": "International Version",
+        "Screen Size": "6.1 In",
+        "Primary Camera Resolution": "48 MP",
+        "Colour Name": "Space Black",
+        "Voice Calling Capability": "Yes",
+        "Operating System Number": "16.x",
+        "Processor Number": "A16"
+      },
+      "frequentlyBoughtTogether": [
+        {
+          "id": "magnetic-wallet",
+          "name": "Magnetic Wallet",
+          "price": "BD 20.000",
+          "image": "/magnetic-wallet.jpg",
+          "inStock": true
+        }
+      ]
+    }
+  ]
+}
